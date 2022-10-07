@@ -17,7 +17,7 @@ NOTE: Remember the requirements for a header and a pause at the end of the progr
 
 Submission: Submit a single zipped folder containing all of the specified screenshots, the table of test cases, AND the root folder for the project.
 
-![1](https://github.com/bell-kevin/ch6celsiusTemperatures/blob/main/ch6celsiusTemperatures/tempConvert.PNG)
+![1](https://github.com/bell-kevin/ch6celsiusTemperatures/blob/main/tempsConvert.PNG)
 
 == We're Using GitHub Under Protest ==
 
