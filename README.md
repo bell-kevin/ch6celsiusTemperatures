@@ -1,0 +1,2 @@
+# ch6celsiusTemperatures
+Create a project that converts a Fahrenheit temperature to a Celsius temperature. The formula for this conversion is:  Celsius = 5 / 9 * (Fahrenheit - 32)  Use a function that accepts the Fahrenheit temperature as an argument and returns the Celsius temperature. Be sure to use floating point numbers for these temperatures, as it is quite normal to see values like 98.6 or 20.5 for temperatures.
