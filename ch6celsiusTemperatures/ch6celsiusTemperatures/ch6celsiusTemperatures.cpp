@@ -22,6 +22,6 @@ void tempConvert(int number) {
     int num;
     for (num = 25; num < 100; num) {
         num = num + 5;
-        cout << setw(10) << num << setw(18) << (num * .6214) << endl;
+        cout << setw(10) <<setprecision(2)<< fixed << num << setw(18) << (num * .6214) << endl;
     }
 }
